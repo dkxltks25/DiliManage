@@ -1,0 +1,57 @@
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\bin\Debug\DiliManage.exe.config
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\bin\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\bin\Debug\DiliManage.pdb
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.Form1.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.pdb
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.InsertMember.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.AdminCourse.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.MainPage1.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.AdminRequest.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.StudentInformation.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.StudentInfromationPage.resources
+C:\Users\MTPC4-06\Desktop\DiliManage\DiliManage\obj\Debug\DiliManage.AdminFT.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\bin\Debug\DiliManage.exe.config
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\bin\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\bin\Debug\DiliManage.pdb
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.pra.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.FT.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.requset.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Form1.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.MainPage1.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Apt_up.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.pdb
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Statics.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Stu_up.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Stu_sel.resources
+C:\Users\MTPC4-06\Desktop\DiliManage (3)\DiliManage\obj\Debug\DiliManage.Apt_sel.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\bin\Debug\DiliManage.exe.config
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\bin\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\bin\Debug\DiliManage.pdb
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.pra.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.FT.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Statics.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Stu_up.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Stu_sel.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.requset.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Form1.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.MainPage1.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Apt_up.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.Apt_sel.resources
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.csproj.CopyComplete
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.exe
+C:\Users\MTPC4-06\Desktop\새 폴더\DiliManage\obj\Debug\DiliManage.pdb
