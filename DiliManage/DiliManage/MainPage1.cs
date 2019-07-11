@@ -136,5 +136,10 @@ namespace DiliManage
             textBox8.ReadOnly = true;
 
         }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

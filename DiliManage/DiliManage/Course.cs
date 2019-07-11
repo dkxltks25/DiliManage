@@ -26,6 +26,9 @@ namespace DiliManage
         public static string RFinDay;
         public static int mode1 = 0;
         public static int mode2 = 0;
+        public static string preYear;
+        public static string preCourseName;
+        public static string preSeason;
         // DB설정
         private static string mysql_str = "server=l.bsks.ac.kr;port=3306;Database=p201887082;Uid=p201887082;Pwd=dkxltks25;Charset=utf8;SSLMODE = NONE";
         private static int mode;
@@ -100,6 +103,12 @@ namespace DiliManage
 
         public void set_value()
         {
+            if (ia == 0)
+            {
+                preYear = Year;
+                preSeason = Season;
+                preCourseName = CourseName;
+            }
             Year = textBox1.Text;
             Season = radioButton1.Checked ? "하계" : "동계";
             CourseName = textBox3.Text;
@@ -232,10 +241,12 @@ namespace DiliManage
                 
             }
         }
-
+        private static int ia = 0;
         private void button8_Click(object sender, EventArgs e)
         {
+            
             set_value();
+            ia++;
             if (All_space_check() == 1)
             {
                
@@ -250,9 +261,9 @@ namespace DiliManage
                 sql += "COS_RSDATE='" + RStaDay + "',";
                 sql += "COS_REDATE='" + RFinDay + "'";
                 sql += " where ";
-                sql += "APP_YEAR ='" + Year + "'AND ";
-                sql += "APP_SEASON='" + Season + "'AND ";
-                sql += "COS_NAME='" + CourseName + "'";
+                sql += "APP_YEAR ='" + preYear + "'AND ";
+                sql += "APP_SEASON='" + preSeason + "'AND ";
+                sql += "COS_NAME='" + preCourseName + "'";
                 Console.WriteLine(sql);
                 set_table("select * from TATM_COR");
                 if (MessageBox.Show("선택하신 정보를 수정하시겠습니까", "YesOrNo", MessageBoxButtons.YesNo) == DialogResult.Yes)

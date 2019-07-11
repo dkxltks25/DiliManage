@@ -16,7 +16,7 @@ namespace DiliManage
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Stu_up());
+            Application.Run(new Stu_sel());
         }
     }
 }
